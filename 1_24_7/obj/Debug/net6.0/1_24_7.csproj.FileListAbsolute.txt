@@ -1,0 +1,14 @@
+C:\Users\Casey Pedraya\source\repos\1_24_7\bin\Debug\net6.0\1_24_7.exe
+C:\Users\Casey Pedraya\source\repos\1_24_7\bin\Debug\net6.0\1_24_7.deps.json
+C:\Users\Casey Pedraya\source\repos\1_24_7\bin\Debug\net6.0\1_24_7.runtimeconfig.json
+C:\Users\Casey Pedraya\source\repos\1_24_7\bin\Debug\net6.0\1_24_7.dll
+C:\Users\Casey Pedraya\source\repos\1_24_7\bin\Debug\net6.0\1_24_7.pdb
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\1_24_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\1_24_7.AssemblyInfoInputs.cache
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\1_24_7.AssemblyInfo.cs
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\1_24_7.csproj.CoreCompileInputs.cache
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\1_24_7.dll
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\refint\1_24_7.dll
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\1_24_7.pdb
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\1_24_7.genruntimeconfig.cache
+C:\Users\Casey Pedraya\source\repos\1_24_7\obj\Debug\net6.0\ref\1_24_7.dll
